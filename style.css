@@ -1,0 +1,16 @@
+img {
+  width: 100px;
+}
+img:hover{
+  transform: scale(1.20);
+}
+.hidden{
+  display: none;
+}
+.show{
+  display: block;
+}
+body{
+  position: relative;
+  text-align: center;
+}
